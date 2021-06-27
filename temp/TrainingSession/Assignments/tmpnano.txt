@@ -1,0 +1,4 @@
+Hello there. You know what I am trying to do here, right?
+ Yeah, you are trying out the nano editor.
+Yes, I am.
+ You can press Ctrl+G for help. Basic commands are at the bottom.
